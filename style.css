@@ -468,7 +468,7 @@ footer ul li a:focus {
 	}
 
 	.mobile-menu-container {
-		/* display: block; */
+		display: none;
 	}
 
 	.mobile-menu-container {
