@@ -55,6 +55,7 @@ Containers are your friend!
 ### Continued development
 
 Possible tweak section 2 a little bit to make the inbetween sizes look a little more polished.
+Also, the active/hover states on the li's. The images from the documents show a shorter line than what I have made and I need to fiddle with it. Probably using ::after
 
 ### Useful resources
 
