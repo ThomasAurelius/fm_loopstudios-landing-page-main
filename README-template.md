@@ -56,6 +56,7 @@ Containers are your friend!
 
 Possible tweak section 2 a little bit to make the inbetween sizes look a little more polished.
 Also, the active/hover states on the li's. The images from the documents show a shorter line than what I have made and I need to fiddle with it. Probably using ::after
+The end result works and produces the same layout, however I doubled up my html and used media queries to show hide duplicates, in order to put them in a different order, or to show a different size. I'd like to go back and refactor them to reduce the markup.
 
 ### Useful resources
 
