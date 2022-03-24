@@ -187,6 +187,11 @@ ul li {
 	margin: 10px;
 }
 
+.primary-navigation ul li a:hover,
+.primary-navigation ul li a:focus {
+	border-bottom: 3px solid white;
+}
+
 .logo {
 	margin-top: 30px;
 	height: 30px;
@@ -311,6 +316,12 @@ ul li {
 	font-family: "Josefin Sans";
 }
 
+.section-3-btn-lg:hover,
+.section-3-btn-lg:focus {
+	background-color: black;
+	color: white;
+}
+
 .section-3-btn-lg {
 	display: inline;
 }
@@ -370,10 +381,19 @@ footer {
 	padding: 30px;
 }
 
+footer ul {
+	margin-bottom: 20px;
+}
+
 footer ul li a {
-	padding: 20px;
+	padding: 10px 20px;
 	color: white;
 	font-family: "Josefin Sans";
+}
+
+footer ul li a:hover,
+footer ul li a:focus {
+	border-bottom: 2px solid white;
 }
 
 .footer-container {
@@ -395,7 +415,7 @@ footer ul li a {
 	justify-content: space-between;
 }
 .copyright-container {
-	padding-top: 10px;
+	padding-top: 20px;
 }
 
 .copyright {
@@ -481,6 +501,11 @@ footer ul li a {
 		color: white;
 		font-size: 2rem;
 		font-family: "Josefin Sans";
+	}
+
+	.nav-links ul li a:hover,
+	.nav-links ul li a:focus {
+		border-bottom: 1px solid white;
 	}
 
 	.menu-btn {
