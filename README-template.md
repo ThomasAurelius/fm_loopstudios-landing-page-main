@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 -  Solution URL: (https://github.com/ThomasAurelius/fm_loopstudios-landing-page-main/blob/master/README-template.md)
--  Live Site URL: (https://thomasaurelius.github.io/fm_loopstudios-landing-page-main/m)
+-  Live Site URL: (https://thomasaurelius.github.io/fm_loopstudios-landing-page-main)
 
 ## My process
 
