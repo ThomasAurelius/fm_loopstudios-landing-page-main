@@ -541,9 +541,9 @@ footer ul li a:focus {
 	.section-2-content {
 		position: unset;
 		margin: 0 auto;
-		width: 80vw;
+		width: 90vw;
 		background-color: white;
-		padding: 60px;
+		padding: 30px;
 	}
 
 	.section-3-container {
@@ -655,5 +655,19 @@ footer ul li a:focus {
 		color: white;
 		margin: 0 auto;
 		text-align: center;
+	}
+}
+
+@media (max-width: 400px) {
+	.hero-title {
+		font-size: 2rem;
+	}
+
+	.section-2-content {
+		padding: 10px;
+	}
+
+	.section-2-subtitle {
+		font-size: 1.7rem;
 	}
 }
